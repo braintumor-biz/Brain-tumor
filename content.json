@@ -1,0 +1,583 @@
+{
+    "color1": "",
+    "color2": "",
+    "color3": "",
+    "color4": "",
+    "color5": "",
+    "siteTitle": "Brain tumor",
+    "hero": {
+        "title": "腦癌知識+",
+        "backgroundImage": ""
+    },
+    "introduction": {
+        "content": "這是一個關於腦癌的網站。",
+        "image": ""
+    },
+    "documents": {
+        "title": "Documents",
+        "items": [
+            {
+                "titles": "景德 惠康注射劑 (Vincristine sulfate)在癌症治療中的應用",
+                "author": "Cancerfree",
+                "no": 2111,
+                "date": "2024/11/11 10:35:00",
+                "tags": [
+                    "硫酸氧化長春花",
+                    "乳癌",
+                    "白血病",
+                    "癌症藥物介紹",
+                    "抗腫瘍劑",
+                    "腦癌"
+                ],
+                "website": [
+                    "Lung Cancer",
+                    "Breast Cancer",
+                    "Brain tumor",
+                    "Leukemia"
+                ]
+            },
+            {
+                "titles": "癌症的質子治療",
+                "author": "Cancerfree",
+                "no": 2436,
+                "date": "2024/11/01 00:05:00",
+                "tags": [
+                    "癌症治療",
+                    "癌症",
+                    "質子治療"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "營養補充品對癌症的影響與作用：左旋麩醯胺酸、B12、維他命C、維他命B群、中藥、魚油",
+                "author": "Cancerfree",
+                "no": 2439,
+                "date": "2024/10/31 23:08:00",
+                "tags": [
+                    "癌症",
+                    "健康",
+                    "中藥",
+                    "營養補充品",
+                    "生活品質",
+                    "麩醯胺酸（左旋麩醯胺酸）",
+                    "B12",
+                    "維他命C",
+                    "維他命B群",
+                    "魚油"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "深入了解放射治療於癌症中的應用",
+                "author": "Cancerfree",
+                "no": 2441,
+                "date": "2024/10/31 23:06:00",
+                "tags": [
+                    "化療",
+                    "癌症治療",
+                    "癌症",
+                    "繁體中文",
+                    "腫瘤",
+                    "治療方法",
+                    "放射治療",
+                    "電療",
+                    "SEO",
+                    "癌症手術"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "深度解析對抗癌症的社會資源",
+                "author": "Cancerfree",
+                "no": 1028,
+                "date": "2024/10/31 00:26:46",
+                "tags": [
+                    "癌症",
+                    "社會資源",
+                    "cancer",
+                    "病患照護",
+                    "social resources",
+                    "support groups",
+                    "financial aid",
+                    "patient care",
+                    "支持團體",
+                    "財政援助",
+                    "患者之家",
+                    "網路資源"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "深入解析健保給付在癌症治療中的角色",
+                "author": "Cancerfree",
+                "no": 1027,
+                "date": "2024/10/31 00:25:34",
+                "tags": [
+                    "癌症治療",
+                    "癌症",
+                    "疾病管理",
+                    "健保給付",
+                    "公共衛生",
+                    "醫療政策"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "細胞治療對於癌症的介紹",
+                "author": "Cancerfree",
+                "no": 2462,
+                "date": "2024/10/31 00:22:00",
+                "tags": [
+                    "癌症",
+                    "疾病",
+                    "細胞治療",
+                    "無創治療",
+                    "醫學技術",
+                    "免疫治療"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "深入瞭解標靶治療在癌症中的應用",
+                "author": "Cancerfree",
+                "no": 2463,
+                "date": "2024/10/31 00:19:00",
+                "tags": [
+                    "化療",
+                    "癌症",
+                    "肺癌",
+                    "乳腺癌",
+                    "標靶治療",
+                    "結腸癌",
+                    "赫赛汀",
+                    "利妥昔單抗",
+                    "基因檢測",
+                    "個體化治療",
+                    "藥物臨床試驗"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "深入了解化療藥物副作用及其對癌症的影響",
+                "author": "Cancerfree",
+                "no": 1023,
+                "date": "2024/10/31 00:15:12",
+                "tags": [
+                    "副作用",
+                    "藥物副作用",
+                    "化療",
+                    "化療藥物",
+                    "癌症治療",
+                    "癌症",
+                    "病患照護"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "關於化學治療的詳細介紹",
+                "author": "Cancerfree",
+                "no": 1022,
+                "date": "2024/10/31 00:13:47",
+                "tags": [
+                    "副作用",
+                    "癌症",
+                    "化學治療",
+                    "腫瘤",
+                    "抗癌藥",
+                    "醫護人員",
+                    "症狀",
+                    "生存品質"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "深度解析：關於癌症和平均壽命",
+                "author": "Cancerfree",
+                "no": 1021,
+                "date": "2024/10/31 00:11:46",
+                "tags": [
+                    "醫學",
+                    "治療",
+                    "癌症",
+                    "肺癌",
+                    "健康",
+                    "免疫療法",
+                    "胰腺癌",
+                    "皮膚癌",
+                    "疾病",
+                    "平均壽命",
+                    "生物學"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "關於癌症的存活率與生存率詳細介紹",
+                "author": "Cancerfree",
+                "no": 1020,
+                "date": "2024/10/31 00:10:22",
+                "tags": [
+                    "癌症",
+                    "治療效果",
+                    "存活率",
+                    "生存率",
+                    "特定病患",
+                    "醫生建議",
+                    "健康情況",
+                    "癌症階段"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "癌症診斷的利器：電腦斷層簡介",
+                "author": "Cancerfree",
+                "no": 1019,
+                "date": "2024/10/31 00:08:48",
+                "tags": [
+                    "癌症",
+                    "電腦斷層",
+                    "早期診斷",
+                    "CT掃描",
+                    "輻射",
+                    "醫療影像",
+                    "疾病診斷",
+                    "三維斷層",
+                    "醫療設備"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "瞭解復發: 癌症再生的關鍵",
+                "author": "Cancerfree",
+                "no": 1018,
+                "date": "2024/10/31 00:07:24",
+                "tags": [
+                    "化療",
+                    "治療",
+                    "癌症",
+                    "免疫療法",
+                    "復發",
+                    "疾病再生",
+                    "放射線治療"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "對於癌症患者，飲食怎麼吃以及飲食禁忌的講解",
+                "author": "Cancerfree",
+                "no": 1017,
+                "date": "2024/10/31 00:05:35",
+                "tags": [
+                    "癌症",
+                    "繁體中文",
+                    "飲食禁忌",
+                    "cancer",
+                    "飲食",
+                    "營養",
+                    "飲食指南",
+                    "生活方式"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "深度探討新療法治療癌症的效果",
+                "author": "Cancerfree",
+                "no": 1016,
+                "date": "2024/10/31 00:02:56",
+                "tags": [
+                    "癌症治療",
+                    "癌症",
+                    "治療方法",
+                    "新治療",
+                    "醫藥新知"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "深入解析: 癌症的成因和原因與藥物",
+                "author": "Cancerfree",
+                "no": 1015,
+                "date": "2024/10/31 00:01:48",
+                "tags": [
+                    "治療",
+                    "癌症",
+                    "癌症治療藥物",
+                    "成因",
+                    "原因",
+                    "環境因素",
+                    "預防",
+                    "繁體中文藥物",
+                    "生活習慣",
+                    "遺傳因素",
+                    "細胞異常",
+                    "細胞損傷"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "對症藥物與癌症的詳細介紹",
+                "author": "Cancerfree",
+                "no": 1014,
+                "date": "2024/10/30 23:59:23",
+                "tags": [
+                    "癌症",
+                    "疾病治療",
+                    "症狀藥物",
+                    "健康教育",
+                    "醫學知識"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            },
+            {
+                "titles": "癌症症狀的詳細介紹",
+                "author": "Cancerfree",
+                "no": 1013,
+                "date": "2024/10/30 23:57:25",
+                "tags": [
+                    "醫學",
+                    "治療",
+                    "癌症",
+                    "腫瘤",
+                    "健康",
+                    "疲勞",
+                    "肌肉疼痛",
+                    "症狀",
+                    "體重減輕",
+                    "早期檢測",
+                    "呼吸困難"
+                ],
+                "website": [
+                    "Gastric Cancer",
+                    "Liver Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Pancreatic Cancer",
+                    "Prostate Cancer",
+                    "Breast Cancer",
+                    "Esophageal Cancer",
+                    "Colorectal Cancer",
+                    "Brain tumor",
+                    "Oral Cancer"
+                ]
+            }
+        ]
+    },
+    "ad1": {
+        "image": "./images/官網little star配圖.png",
+        "content": "Little Star",
+        "link": "https://littlestar.love/"
+    },
+    "ad2": {
+        "image": "./images/官網 替身醫療 配圖.png",
+        "content": "替身醫療",
+        "link": "https://info.cancerfree.io/"
+    },
+    "ad3": {
+        "image": "./images/癌症論壇主視覺1200x100-1.png",
+        "content": "癌症新曙光",
+        "link": "https://www.accupass.com/event/2409190641091118413560"
+    }
+}
