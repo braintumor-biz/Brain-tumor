@@ -17,6 +17,30 @@
         "title": "Documents",
         "items": [
             {
+                "titles": "2025最新「腦瘤分割」研究：DSITUNet如何協助精準定位與診斷",
+                "author": "",
+                "no": 2647,
+                "date": "2025/04/24 08:03 AM",
+                "tags": [
+                    "康復",
+                    "腦腫瘤",
+                    "深度學習",
+                    "分割",
+                    "雙流編碼器",
+                    "DSITUNet",
+                    "轉換器",
+                    "迭代式轉換器",
+                    "空間混合注意力優化",
+                    "卷積神經網路",
+                    "注意力機制",
+                    "多尺度特徵提取"
+                ],
+                "website": [
+                    "Brain tumor"
+                ],
+                "description": "DSITUNet結合雙流編碼與迭代式Transformer機制，透過TSHAO優化局部與全域資訊，提升腦瘤分割精準度，於多項公開數據集均超越現有方法。"
+            },
+            {
                 "titles": "2025年最新腦瘤與癲癇研究：Glioma-Related Epilepsy 發生機制與臨床發現",
                 "author": "",
                 "no": 2635,
